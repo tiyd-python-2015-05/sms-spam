@@ -1,5 +1,8 @@
+ipython[notebook]
 scikit-learn
 scipy
 pandas
 numpy
 matplotlib
+seaborn
+textblob
